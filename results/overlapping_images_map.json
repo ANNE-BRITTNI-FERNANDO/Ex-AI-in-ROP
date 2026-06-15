@@ -1,0 +1,1405 @@
+{
+  "total_overlapping_images": 97,
+  "images": [
+    {
+      "image_hash": "f1e1f59b9ad99c1bb103d9ffc9e67ab9",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\1.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\1.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\1.png"
+      }
+    },
+    {
+      "image_hash": "85f9df0148b0266df5b5dfafcc12eba0",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\10.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\15.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\15.png"
+      }
+    },
+    {
+      "image_hash": "473b3c182e822a5f1396d48e07ac3f65",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\12.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\17.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\17.png"
+      }
+    },
+    {
+      "image_hash": "494ef933bb4ed406a048af108f6f18bb",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\14.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\19.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\19.png"
+      }
+    },
+    {
+      "image_hash": "d7b3228622d774b48f8a975637c202a0",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\15.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\20.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\20.png"
+      }
+    },
+    {
+      "image_hash": "352684a3c808dad64b6b4a716a592b40",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\16.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\21.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\21.png"
+      }
+    },
+    {
+      "image_hash": "7870599c4d0ad5db4bd2449ee7ce33b6",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\18.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\23.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\23.png"
+      }
+    },
+    {
+      "image_hash": "40bdc685741f27456c4d79c9142a2506",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\19.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\24.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\24.png"
+      }
+    },
+    {
+      "image_hash": "a88ef5a272088b636ad3880fcc9ee996",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\2.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\2.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\2.png"
+      }
+    },
+    {
+      "image_hash": "326de56f31e7a1b8a86ec87836b267f3",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\20.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\25.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\25.png"
+      }
+    },
+    {
+      "image_hash": "4742a78ba38519bcdf42992cdebca3f4",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\21.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Neo_Vessels_images\\1.png"
+      },
+      "mask_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Neo_Vessels_masks\\1.png"
+      }
+    },
+    {
+      "image_hash": "f18c8338a74042ff347b3f9cdcae4649",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\22.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Neo_Vessels_images\\2.png"
+      },
+      "mask_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Neo_Vessels_masks\\2.png"
+      }
+    },
+    {
+      "image_hash": "96333158a67a55c2440fc6b67e3d6a9d",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\23.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Neo_Vessels_images\\3.png"
+      },
+      "mask_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Neo_Vessels_masks\\3.png"
+      }
+    },
+    {
+      "image_hash": "efff1cf9c5a5148d56677dcc9c61767e",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\24.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Neo_Vessels_images\\24.png"
+      },
+      "mask_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Neo_Vessels_masks\\24.png"
+      }
+    },
+    {
+      "image_hash": "9c266243552709164d70631be8189fcd",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\25.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Neo_Vessels_images\\25.png"
+      },
+      "mask_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Neo_Vessels_masks\\25.png"
+      }
+    },
+    {
+      "image_hash": "b843f0c717086e2910392cc623864a61",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\26.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Neo_Vessels_images\\26.png"
+      },
+      "mask_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Neo_Vessels_masks\\26.png"
+      }
+    },
+    {
+      "image_hash": "65454afe6e84241f76f0c0ade74931a2",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\27.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Neo_Vessels_images\\27.png"
+      },
+      "mask_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Neo_Vessels_masks\\27.png"
+      }
+    },
+    {
+      "image_hash": "e58f769552939b54e3cc042390e5fd27",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\28.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\27.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\27.png"
+      }
+    },
+    {
+      "image_hash": "6376b867e23b9659ff6b92123ffb8dca",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\29.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Neo_Vessels_images\\28.png"
+      },
+      "mask_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Neo_Vessels_masks\\28.png"
+      }
+    },
+    {
+      "image_hash": "6d4137108cbbeac8bdb349a0bf3f3190",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\3.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\3.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\3.png"
+      }
+    },
+    {
+      "image_hash": "41aadfd8162dce1de0422276d4323bcf",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\30.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\30.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\30.png"
+      }
+    },
+    {
+      "image_hash": "cabcd9aa81e1f6bc095142eaac73998a",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\31.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\32.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\32.png"
+      }
+    },
+    {
+      "image_hash": "69efeab4911a05b04e40214f0753e67c",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\32.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\33.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\33.png"
+      }
+    },
+    {
+      "image_hash": "5d658cd92dc77fa5df4d32e915db532c",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\33.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\34.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\34.png"
+      }
+    },
+    {
+      "image_hash": "2674c3a8fe1ddee2a0d4c109758b7c21",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\34.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\35.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\35.png"
+      }
+    },
+    {
+      "image_hash": "daa98a32974127409af13fdde5cf653f",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\35.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\37.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\37.png"
+      }
+    },
+    {
+      "image_hash": "3ed4a4a51df5f5c469070e1dd803dba8",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\36.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\38.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\38.png"
+      }
+    },
+    {
+      "image_hash": "a1fa9ddb1d9bbf9c297cb38c379b893c",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\37.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\39.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\39.png"
+      }
+    },
+    {
+      "image_hash": "6725be5267d7a65558c234d2584ae49f",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\38.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\40.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\40.png"
+      }
+    },
+    {
+      "image_hash": "74947f7a4c05e61ef0c31b58d2fd11e7",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\39.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\41.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\41.png"
+      }
+    },
+    {
+      "image_hash": "1bfbbe6da7f74a20baa3388e1581049c",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\40.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\42.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\42.png"
+      }
+    },
+    {
+      "image_hash": "93d8a83543b44d8ba31918950b7f2d69",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\41.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\43.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\43.png"
+      }
+    },
+    {
+      "image_hash": "81e2e602ddf4a905b76fb146ebd0831b",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\42.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Neo_Vessels_images\\30.png"
+      },
+      "mask_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Neo_Vessels_masks\\30.png"
+      }
+    },
+    {
+      "image_hash": "b3974730c26a9ff0717297e25c986163",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\43.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Neo_Vessels_images\\31.png"
+      },
+      "mask_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Neo_Vessels_masks\\31.png"
+      }
+    },
+    {
+      "image_hash": "dd96e42466155df99676f0f3d8f4e0c2",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\44.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Neo_Vessels_images\\32.png"
+      },
+      "mask_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Neo_Vessels_masks\\32.png"
+      }
+    },
+    {
+      "image_hash": "2db9cc2a83441304a4fb5fcd2a617d6f",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\45.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Neo_Vessels_images\\33.png"
+      },
+      "mask_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Neo_Vessels_masks\\33.png"
+      }
+    },
+    {
+      "image_hash": "24159889b8c14411b909ff118cee1b24",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\46.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Neo_Vessels_images\\34.png"
+      },
+      "mask_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Neo_Vessels_masks\\34.png"
+      }
+    },
+    {
+      "image_hash": "21ee7a271ccf8a5b1211c3d276af1ebf",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\47.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Neo_Vessels_images\\35.png"
+      },
+      "mask_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Neo_Vessels_masks\\35.png"
+      }
+    },
+    {
+      "image_hash": "c9c0e769f7139c5708185d56e094d85e",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\48.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Neo_Vessels_images\\37.png"
+      },
+      "mask_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Neo_Vessels_masks\\37.png"
+      }
+    },
+    {
+      "image_hash": "0e945db4fa8600f95e5de78db5e7ee19",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\49.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\49.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\49.png"
+      }
+    },
+    {
+      "image_hash": "ce36d119080ae5e184b579d07bb578a3",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\5.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\7.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\7.png"
+      }
+    },
+    {
+      "image_hash": "63634701f8d004130bddfd3ccf30e39c",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\50.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\50.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\50.png"
+      }
+    },
+    {
+      "image_hash": "d0180e7af1ddc4fed94c5556592c1457",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\6.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\9.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\9.png"
+      }
+    },
+    {
+      "image_hash": "4de4ff039923792183e193742c1cc05a",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\7.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\10.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\10.png"
+      }
+    },
+    {
+      "image_hash": "2316143a6fa40ce4798a87fb8300de03",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\Neo_Normal\\9.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Neo_OpticDisc_images\\12.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Neo_OpticDisc_masks\\12.png"
+      }
+    },
+    {
+      "image_hash": "95453fa27097a77b5c734dfcd1e0b691",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\1.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc",
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\2.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Retcam_Vessels_images\\2.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\2.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Retcam_Vessels_masks\\2.png"
+      }
+    },
+    {
+      "image_hash": "12f899cfb05aa3958230e6df88e02b88",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\11.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc",
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\6.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Retcam_Vessels_images\\11.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\6.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Retcam_Vessels_masks\\11.png"
+      }
+    },
+    {
+      "image_hash": "bccbff284d8d0195ebe686a54550c7a0",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\13.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc",
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\9.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Retcam_Vessels_images\\15.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\9.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Retcam_Vessels_masks\\15.png"
+      }
+    },
+    {
+      "image_hash": "afa14b6cc87e061b7d9257f4fc10c105",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\ROP\\RetCam_ROP\\19.png",
+      "classification_label": "ROP",
+      "available_lesions": [
+        "optic_disc",
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\10.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Retcam_Vessels_images\\16.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\10.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Retcam_Vessels_masks\\16.png"
+      }
+    },
+    {
+      "image_hash": "fd92a2dd7773e0eded822748b635c71f",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\16.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc",
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\12.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Retcam_Vessels_images\\18.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\12.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Retcam_Vessels_masks\\18.png"
+      }
+    },
+    {
+      "image_hash": "2156f874a1f4b3843466b2e387cf51ed",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\17.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc",
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\14.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Retcam_Vessels_images\\21.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\14.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Retcam_Vessels_masks\\21.png"
+      }
+    },
+    {
+      "image_hash": "db769e48eaac208e7669d8b2963b49a1",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\18.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc",
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\15.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Retcam_Vessels_images\\24.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\15.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Retcam_Vessels_masks\\24.png"
+      }
+    },
+    {
+      "image_hash": "738aa0d6b7757311fdc4ca037450af49",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\2.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Retcam_Vessels_images\\3.png"
+      },
+      "mask_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Retcam_Vessels_masks\\3.png"
+      }
+    },
+    {
+      "image_hash": "4ec0be3bd547ae48d38a2fa698408483",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\21.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc",
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\17.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Retcam_Vessels_images\\25.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\17.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Retcam_Vessels_masks\\25.png"
+      }
+    },
+    {
+      "image_hash": "7da2be736125aa563b6fb079a8153cab",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\25.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Retcam_Vessels_images\\26.png"
+      },
+      "mask_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Retcam_Vessels_masks\\26.png"
+      }
+    },
+    {
+      "image_hash": "b538c17b9b567361ccc04870da7dc4e5",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\26.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc",
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\18.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Retcam_Vessels_images\\27.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\18.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Retcam_Vessels_masks\\27.png"
+      }
+    },
+    {
+      "image_hash": "995f4d45a868e006451607600a0f70bb",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\27.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Retcam_Vessels_images\\29.png"
+      },
+      "mask_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Retcam_Vessels_masks\\29.png"
+      }
+    },
+    {
+      "image_hash": "45c44a6fbbc7af7d5918e13219274450",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\28.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc",
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\19.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Retcam_Vessels_images\\30.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\19.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Retcam_Vessels_masks\\30.png"
+      }
+    },
+    {
+      "image_hash": "137c1352230066a20e8f3f616aa3ad96",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\29.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Retcam_Vessels_images\\31.png"
+      },
+      "mask_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Retcam_Vessels_masks\\31.png"
+      }
+    },
+    {
+      "image_hash": "faf34191582d3ad3734b3b3a99474765",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\3.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Retcam_Vessels_images\\9.png"
+      },
+      "mask_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Retcam_Vessels_masks\\9.png"
+      }
+    },
+    {
+      "image_hash": "1102d50570f932c47a3501702cb21a11",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\30.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc",
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\21.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Retcam_Vessels_images\\35.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\21.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Retcam_Vessels_masks\\35.png"
+      }
+    },
+    {
+      "image_hash": "a575b42b8cfd92be81e5615e7a419931",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\31.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\22.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\22.png"
+      }
+    },
+    {
+      "image_hash": "87a3cacec846713936f3e5824295095b",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\33.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\27.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\27.png"
+      }
+    },
+    {
+      "image_hash": "20d4be33bfc943ba8811f2e038725825",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\34.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\28.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\28.png"
+      }
+    },
+    {
+      "image_hash": "ce20094f0aaf45e75c618844160b8ea6",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\35.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\29.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\29.png"
+      }
+    },
+    {
+      "image_hash": "ea8ca824b8df9d86b06b292fa813c05a",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\36.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\31.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\31.png"
+      }
+    },
+    {
+      "image_hash": "d399c20847c869ea8665b056dccbccc2",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\37.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\32.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\32.png"
+      }
+    },
+    {
+      "image_hash": "e4ba7a785f857b1c15acd24116514331",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\38.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\33.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\33.png"
+      }
+    },
+    {
+      "image_hash": "07e541326543cda9e7b953bae08f379e",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\39.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\34.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\34.png"
+      }
+    },
+    {
+      "image_hash": "d87577adf73056ef55f3297678e55507",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\40.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\36.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\36.png"
+      }
+    },
+    {
+      "image_hash": "fc04ad74fc9a82a087789c69742ccdcb",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\41.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\37.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\37.png"
+      }
+    },
+    {
+      "image_hash": "bc4a672ff3b73cc69ebada655752417c",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\42.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc",
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\39.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Retcam_Vessels_images\\47.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\39.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Retcam_Vessels_masks\\47.png"
+      }
+    },
+    {
+      "image_hash": "ffccda31e5d9acbf88fb834c71a422a0",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\43.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc",
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\43.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Retcam_Vessels_images\\49.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\43.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Retcam_Vessels_masks\\49.png"
+      }
+    },
+    {
+      "image_hash": "3e3aca74c01cb6ed1e05648de9ad0bcb",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\44.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\45.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\45.png"
+      }
+    },
+    {
+      "image_hash": "9f3b386ada04f7e33cac588c05b60331",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\45.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\46.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\46.png"
+      }
+    },
+    {
+      "image_hash": "2ffe51bfede88ae7e6cbb5e306e289b3",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\46.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\48.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\48.png"
+      }
+    },
+    {
+      "image_hash": "41fde83f5c5d9d319e933e7a0cc07c49",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\47.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\49.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\49.png"
+      }
+    },
+    {
+      "image_hash": "299ca389cc0dfc05993b870d41856431",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\Normal\\RetCam_Normal\\48.png",
+      "classification_label": "Normal",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\50.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\50.png"
+      }
+    },
+    {
+      "image_hash": "c839d514ab689d71d2b1e8d71ea9ead9",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\ROP\\RetCam_ROP\\1.png",
+      "classification_label": "ROP",
+      "available_lesions": [
+        "ridge"
+      ],
+      "segmentation_image_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\images\\Retcam_Ridge_images\\1.png"
+      },
+      "mask_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\masks\\Retcam_Ridge_masks\\1.png"
+      }
+    },
+    {
+      "image_hash": "56f9b032f5c138ff71b34b12a645e5f3",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\ROP\\RetCam_ROP\\10.png",
+      "classification_label": "ROP",
+      "available_lesions": [
+        "ridge"
+      ],
+      "segmentation_image_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\images\\Retcam_Ridge_images\\10.png"
+      },
+      "mask_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\masks\\Retcam_Ridge_masks\\10.png"
+      }
+    },
+    {
+      "image_hash": "b398f646f86d5cee4f8909f62425a723",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\ROP\\RetCam_ROP\\11.png",
+      "classification_label": "ROP",
+      "available_lesions": [
+        "ridge"
+      ],
+      "segmentation_image_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\images\\Retcam_Ridge_images\\11.png"
+      },
+      "mask_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\masks\\Retcam_Ridge_masks\\11.png"
+      }
+    },
+    {
+      "image_hash": "8b2424062c4ccf36fa9b13c59ecac2f3",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\ROP\\RetCam_ROP\\12.png",
+      "classification_label": "ROP",
+      "available_lesions": [
+        "ridge"
+      ],
+      "segmentation_image_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\images\\Retcam_Ridge_images\\12.png"
+      },
+      "mask_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\masks\\Retcam_Ridge_masks\\12.png"
+      }
+    },
+    {
+      "image_hash": "50092e32a30d33e626cd9c713c913574",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\ROP\\RetCam_ROP\\14.png",
+      "classification_label": "ROP",
+      "available_lesions": [
+        "ridge"
+      ],
+      "segmentation_image_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\images\\Retcam_Ridge_images\\13.png"
+      },
+      "mask_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\masks\\Retcam_Ridge_masks\\13.png"
+      }
+    },
+    {
+      "image_hash": "6cd748a5e030ca9591ee9eb8d4e3eec6",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\ROP\\RetCam_ROP\\16.png",
+      "classification_label": "ROP",
+      "available_lesions": [
+        "ridge"
+      ],
+      "segmentation_image_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\images\\Retcam_Ridge_images\\14.png"
+      },
+      "mask_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\masks\\Retcam_Ridge_masks\\14.png"
+      }
+    },
+    {
+      "image_hash": "d064a578da8ff39f4c31a29068b58ccf",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\ROP\\RetCam_ROP\\17.png",
+      "classification_label": "ROP",
+      "available_lesions": [
+        "ridge"
+      ],
+      "segmentation_image_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\images\\Retcam_Ridge_images\\15.png"
+      },
+      "mask_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\masks\\Retcam_Ridge_masks\\15.png"
+      }
+    },
+    {
+      "image_hash": "5885d7e5fbd149740dacc7aecf48fdd3",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\ROP\\RetCam_ROP\\29.png",
+      "classification_label": "ROP",
+      "available_lesions": [
+        "optic_disc",
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\13.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Retcam_Vessels_images\\19.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\13.png",
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Retcam_Vessels_masks\\19.png"
+      }
+    },
+    {
+      "image_hash": "8e1cb1447c6ca805ef9966bf605889b1",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\ROP\\RetCam_ROP\\33.png",
+      "classification_label": "ROP",
+      "available_lesions": [
+        "optic_disc"
+      ],
+      "segmentation_image_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\images\\Retcam_OpticDisc_images\\16.png"
+      },
+      "mask_paths": {
+        "optic_disc": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\optic_disc\\masks\\Retcam_OpticDisc_masks\\16.png"
+      }
+    },
+    {
+      "image_hash": "f8072b93ffd69e1b3f6f512f0e832738",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\ROP\\RetCam_ROP\\34.png",
+      "classification_label": "ROP",
+      "available_lesions": [
+        "ridge"
+      ],
+      "segmentation_image_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\images\\Retcam_Ridge_images\\16.png"
+      },
+      "mask_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\masks\\Retcam_Ridge_masks\\16.png"
+      }
+    },
+    {
+      "image_hash": "b77da4d38b684794a331a4a3cffa397c",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\ROP\\RetCam_ROP\\36.png",
+      "classification_label": "ROP",
+      "available_lesions": [
+        "ridge"
+      ],
+      "segmentation_image_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\images\\Retcam_Ridge_images\\17.png"
+      },
+      "mask_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\masks\\Retcam_Ridge_masks\\17.png"
+      }
+    },
+    {
+      "image_hash": "d3e1458642576b298aba04806bbf14c5",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\ROP\\RetCam_ROP\\4.png",
+      "classification_label": "ROP",
+      "available_lesions": [
+        "ridge"
+      ],
+      "segmentation_image_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\images\\Retcam_Ridge_images\\2.png"
+      },
+      "mask_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\masks\\Retcam_Ridge_masks\\2.png"
+      }
+    },
+    {
+      "image_hash": "2c922e1b77da49f689d4af1326bf1716",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\ROP\\RetCam_ROP\\40.png",
+      "classification_label": "ROP",
+      "available_lesions": [
+        "vessels"
+      ],
+      "segmentation_image_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\images\\Retcam_Vessels_images\\38.png"
+      },
+      "mask_paths": {
+        "vessels": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\vessels\\masks\\Retcam_Vessels_masks\\38.png"
+      }
+    },
+    {
+      "image_hash": "79ffc3fc52e0e81e318c793490a8a202",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\ROP\\RetCam_ROP\\44.png",
+      "classification_label": "ROP",
+      "available_lesions": [
+        "ridge"
+      ],
+      "segmentation_image_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\images\\Retcam_Ridge_images\\35.png"
+      },
+      "mask_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\masks\\Retcam_Ridge_masks\\35.png"
+      }
+    },
+    {
+      "image_hash": "c385d230c4c05b8eda4207d657606822",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\ROP\\RetCam_ROP\\45.png",
+      "classification_label": "ROP",
+      "available_lesions": [
+        "ridge"
+      ],
+      "segmentation_image_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\images\\Retcam_Ridge_images\\37.png"
+      },
+      "mask_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\masks\\Retcam_Ridge_masks\\37.png"
+      }
+    },
+    {
+      "image_hash": "5378e4d6b2cdc4f4f8c6996528f1b4ab",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\ROP\\RetCam_ROP\\5.png",
+      "classification_label": "ROP",
+      "available_lesions": [
+        "ridge"
+      ],
+      "segmentation_image_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\images\\Retcam_Ridge_images\\3.png"
+      },
+      "mask_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\masks\\Retcam_Ridge_masks\\3.png"
+      }
+    },
+    {
+      "image_hash": "894b6bdfbf2216ff0d58a5b20ec9d89f",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\ROP\\RetCam_ROP\\6.png",
+      "classification_label": "ROP",
+      "available_lesions": [
+        "ridge"
+      ],
+      "segmentation_image_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\images\\Retcam_Ridge_images\\4.png"
+      },
+      "mask_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\masks\\Retcam_Ridge_masks\\4.png"
+      }
+    },
+    {
+      "image_hash": "aadfe8146de3bf76bd758e50377c6197",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\ROP\\RetCam_ROP\\7.png",
+      "classification_label": "ROP",
+      "available_lesions": [
+        "ridge"
+      ],
+      "segmentation_image_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\images\\Retcam_Ridge_images\\5.png"
+      },
+      "mask_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\masks\\Retcam_Ridge_masks\\5.png"
+      }
+    },
+    {
+      "image_hash": "19663a6f0bf1b1a169b59032bbc2fe1c",
+      "classification_path": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\classification\\ROP\\RetCam_ROP\\8.png",
+      "classification_label": "ROP",
+      "available_lesions": [
+        "ridge"
+      ],
+      "segmentation_image_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\images\\Retcam_Ridge_images\\6.png"
+      },
+      "mask_paths": {
+        "ridge": "C:\\Users\\ASUS\\FYP - MidPoint\\data\\raw_data\\segmentation\\ridge\\masks\\Retcam_Ridge_masks\\6.png"
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "model": "clean_augmented_model.pth (leakage-free)",
+  "n_pairs_used": 111,
+  "pairwise_mean_pearson": {
+    "Grad-CAM vs Integrated Gradients": 0.3813,
+    "Grad-CAM vs SHAP": -0.083,
+    "Grad-CAM vs LIME": 0.1632,
+    "Integrated Gradients vs SHAP": 0.0114,
+    "Integrated Gradients vs LIME": 0.0803,
+    "SHAP vs LIME": 0.0747
+  },
+  "mean_correlation_overall": 0.1047,
+  "correlation_matrix": {
+    "Grad-CAM": {
+      "Grad-CAM": 1.0,
+      "Integrated Gradients": 0.3813,
+      "SHAP": -0.083,
+      "LIME": 0.1632
+    },
+    "Integrated Gradients": {
+      "Grad-CAM": 0.3813,
+      "Integrated Gradients": 1.0,
+      "SHAP": 0.0114,
+      "LIME": 0.0803
+    },
+    "SHAP": {
+      "Grad-CAM": -0.083,
+      "Integrated Gradients": 0.0114,
+      "SHAP": 1.0,
+      "LIME": 0.0747
+    },
+    "LIME": {
+      "Grad-CAM": 0.1632,
+      "Integrated Gradients": 0.0803,
+      "SHAP": 0.0747,
+      "LIME": 1.0
+    }
+  }
+}

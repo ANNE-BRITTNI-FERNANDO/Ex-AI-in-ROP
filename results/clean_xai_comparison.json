@@ -1,0 +1,90 @@
+{
+  "model": "clean_augmented_model.pth (leakage-free)",
+  "n_pairs": 111,
+  "summary": {
+    "Grad-CAM": {
+      "n": 111,
+      "iou_mean": 0.1064,
+      "iou_std": 0.0544,
+      "dice_mean": 0.1881,
+      "dice_std": 0.0877,
+      "per_lesion_iou": {
+        "optic_disc": 0.1029,
+        "vessels": 0.1045,
+        "ridge": 0.1237
+      }
+    },
+    "Integrated Gradients": {
+      "n": 111,
+      "iou_mean": 0.0881,
+      "iou_std": 0.0478,
+      "dice_mean": 0.1585,
+      "dice_std": 0.0789,
+      "per_lesion_iou": {
+        "optic_disc": 0.1067,
+        "vessels": 0.0734,
+        "ridge": 0.0504
+      }
+    },
+    "LIME": {
+      "n": 111,
+      "iou_mean": 0.0545,
+      "iou_std": 0.0473,
+      "dice_mean": 0.0997,
+      "dice_std": 0.0825,
+      "per_lesion_iou": {
+        "optic_disc": 0.0262,
+        "vessels": 0.1002,
+        "ridge": 0.0606
+      }
+    },
+    "SHAP": {
+      "n": 111,
+      "iou_mean": 0.0332,
+      "iou_std": 0.0375,
+      "dice_mean": 0.0618,
+      "dice_std": 0.0676,
+      "per_lesion_iou": {
+        "optic_disc": 0.0082,
+        "vessels": 0.0822,
+        "ridge": 0.0196
+      }
+    }
+  },
+  "anova_iou": {
+    "F": 54.068,
+    "p": 9.082900392363882e-30
+  },
+  "pairwise_ttests_iou": {
+    "Grad-CAM vs Integrated Gradients": {
+      "t": 2.66,
+      "p": 0.00839566167384925
+    },
+    "Grad-CAM vs LIME": {
+      "t": 7.587,
+      "p": 9.172195726192815e-13
+    },
+    "Grad-CAM vs SHAP": {
+      "t": 11.677,
+      "p": 7.847889701567306e-25
+    },
+    "Integrated Gradients vs LIME": {
+      "t": 5.267,
+      "p": 3.2975470457037633e-07
+    },
+    "Integrated Gradients vs SHAP": {
+      "t": 9.524,
+      "p": 3.1622161255464595e-18
+    },
+    "LIME vs SHAP": {
+      "t": 3.715,
+      "p": 0.0002577136164614029
+    }
+  },
+  "ranking_by_iou": [
+    "Grad-CAM",
+    "Integrated Gradients",
+    "LIME",
+    "SHAP"
+  ]
+}

@@ -1,0 +1,44 @@
+# Local environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Large/raw datasets are not part of the submission repository
+data/
+
+# Generated artifacts
+results/*
+!results/clean_model_gradcam_iou.json
+!results/clean_training_results.json
+!results/clean_xai_comparison.json
+!results/hyperparameter_tuning.json
+!results/multi_method_correlation.json
+!results/overlapping_images_map.json
+!results/canonical_figures/
+!results/canonical_figures/*.png
+!results/enhanced_xai_comparison/
+!results/enhanced_xai_comparison/fig3_lesion_specific_iou.png
+!results/faithfulness_metrics/
+!results/faithfulness_metrics/faithfulness_results.json
+!results/faithfulness_metrics/*.png
+!results/multi_arch_comparison/
+!results/multi_arch_comparison/*.json
+
+# Keep only the deployed/clean checkpoint in Git
+models/*
+!models/clean_augmented_model.pth
+
+# Generated dependency and document/report material
+node_modules/
+package-lock.json
+package.json
+*.docx
+~$*
+
+# Markdown files (chapters kept locally, not in repo)
+*.md
+
+# Logs and temporary outputs
+*.log
+*.csv

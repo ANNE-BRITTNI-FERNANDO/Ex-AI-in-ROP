@@ -1,0 +1,49 @@
+{
+  "learning_rate_sweep": [
+    {
+      "lr": 0.0001,
+      "val_acc": 0.963,
+      "test_acc": 0.8966,
+      "status": "ok",
+      "time_s": 77.0
+    },
+    {
+      "lr": 0.0005,
+      "val_acc": 0.963,
+      "test_acc": 0.931,
+      "status": "ok",
+      "time_s": 115.5
+    },
+    {
+      "lr": 0.001,
+      "val_acc": 0.9259,
+      "test_acc": 0.9655,
+      "status": "ok",
+      "time_s": 146.8
+    }
+  ],
+  "batch_size_sweep": [
+    {
+      "batch": 8,
+      "val_acc": 0.963,
+      "test_acc": 0.8621,
+      "status": "ok",
+      "time_s": 160.4
+    },
+    {
+      "batch": 16,
+      "val_acc": 0.963,
+      "test_acc": 0.8621,
+      "status": "ok",
+      "time_s": 152.2
+    },
+    {
+      "batch": 32,
+      "val_acc": 0.963,
+      "test_acc": 1.0,
+      "status": "ok",
+      "time_s": 165.6
+    }
+  ],
+  "device": "cuda"
+}

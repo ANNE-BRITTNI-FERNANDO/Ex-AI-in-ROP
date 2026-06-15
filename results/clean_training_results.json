@@ -1,0 +1,39 @@
+{
+  "clean_augmented": {
+    "name": "clean_augmented",
+    "augment": true,
+    "best_val": 0.9259,
+    "epochs_ran": 14,
+    "test_acc": 0.8621,
+    "sensitivity": 1.0,
+    "specificity": 0.7333,
+    "f1": 0.875,
+    "auc": 0.9476,
+    "cm": {
+      "tn": 11,
+      "fp": 4,
+      "fn": 0,
+      "tp": 14
+    },
+    "time_s": 206.8
+  },
+  "clean_no_aug": {
+    "name": "clean_no_aug",
+    "augment": false,
+    "best_val": 0.8889,
+    "epochs_ran": 14,
+    "test_acc": 0.8966,
+    "sensitivity": 1.0,
+    "specificity": 0.8,
+    "f1": 0.9032,
+    "auc": 0.9905,
+    "cm": {
+      "tn": 12,
+      "fp": 3,
+      "fn": 0,
+      "tp": 14
+    },
+    "time_s": 218.9
+  },
+  "note": "Split-first; augmentation applied online to training set only; val/test original. Leakage-free."
+}
